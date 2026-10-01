@@ -6,7 +6,7 @@
 
 A practical implementation of a secure communication and authentication framework for IoT-based smart homes. The project demonstrates how smart devices can securely communicate with a Central Hub using modern cryptographic techniques while preventing unauthorized access, message tampering, replay attacks, rogue devices, and privilege escalation.
 
----
+<img width="1536" height="1024" alt="ChatGPT Image Oct 1, 2026, 03_23_10 PM" src="C:\Users\hp\Downloads\hi">
 
 ## 🏠 Project Overview
 
@@ -39,5 +39,4 @@ This project implements a secure IoT environment where devices are authenticated
                      🚨 Sensor
 
 
-img width="1536" height="1024" alt="ChatGPT Image Oct 1, 2026, 03_23_10 PM" src="C:\Users\hp\Downloads\hi" 
 
