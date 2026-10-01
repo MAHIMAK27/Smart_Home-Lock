@@ -9,7 +9,7 @@ A practical implementation of a secure communication and authentication framewor
 ## 🔐 Cryptography
 
 <p align="center">
-  <img src="c.png" alt="Cryptography and IoT Security" width="900">
+  <img src="c.png" alt="Cryptography and IoT Security" width="800">
 </p>
 
 ## 🏠 Project Overview
