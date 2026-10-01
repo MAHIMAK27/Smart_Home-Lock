@@ -6,6 +6,11 @@
 
 A practical implementation of a secure communication and authentication framework for IoT-based smart homes. The project demonstrates how smart devices can securely communicate with a Central Hub using modern cryptographic techniques while preventing unauthorized access, message tampering, replay attacks, rogue devices, and privilege escalation.
 
+## 🔐 Cryptography
+
+<p align="center">
+  <img src="c.png" alt="Cryptography and IoT Security" width="900">
+</p>
 
 ## 🏠 Project Overview
 
