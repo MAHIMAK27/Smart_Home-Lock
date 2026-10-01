@@ -39,5 +39,5 @@ This project implements a secure IoT environment where devices are authenticated
                      🚨 Sensor
 
 
-<img width="1536" height="1024" alt="ChatGPT Image Oct 1, 2026, 03_23_10 PM" src="https://github.com/user-attachments/assets/74594dd1-d81c-4267-b16a-d6aa32b2ecf7" />
+img width="1536" height="1024" alt="ChatGPT Image Oct 1, 2026, 03_23_10 PM" src="https://github.com/user-attachments/assets/74594dd1-d81c-4267-b16a-d6aa32b2ecf7" 
 
